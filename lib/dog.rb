@@ -1,6 +1,6 @@
 class Dog
  def set_foo(name)
-    @name = n
+    @name = nname
  end
  
 end
