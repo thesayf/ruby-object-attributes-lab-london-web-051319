@@ -1,5 +1,5 @@
 class Dog
- def set_foo(n)
+ def set_foo(name)
     |     @foo = n
  end
  
